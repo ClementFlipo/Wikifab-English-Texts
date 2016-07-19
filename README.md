@@ -6,5 +6,5 @@ English is your native language? Help us to fix Wikifab English language issues.
 * Fork <a href="https://github.com/ClementFlipo/Wikifab-English-Texts">this repo</a> and make pull requests to us
 * We promise to look at it and correct it as-soon-as-possible
 
-# The text I'd like to modify isn't on this repo?
+# The text I'd like to modify isn't in this repo?
 No problem, describe the text improvment you'd like to suggest in this page.
