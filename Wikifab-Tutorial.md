@@ -7,23 +7,19 @@
 
 #### Difficulty:
 
-Very easy: Accessible to everyone. An 8 year old child can follow the tutorial without difficulty
-
-Easy: Accessible to all. An adult can follow the tutorial without difficulty
-
-Middle: Only an informed adult can follow the tutorial. Requires no special skills
-
-Difficult: Requires mastery of technical skills. An amateur may, however, follow the tutorial
-
-Very difficult: Usually reserved for professionals. Requires the mastery of complex technical skills
+* Very easy: Accessible to everyone. An 8 year old child can follow the tutorial without difficulty
+* Easy: Accessible to all. An adult can follow the tutorial without difficulty
+* Middle: Only an informed adult can follow the tutorial. Requires no special skills
+* Difficult: Requires mastery of technical skills. An amateur may, however, follow the tutorial
+* Very difficult: Usually reserved for professionals. Requires the mastery of complex technical skills
 
 #### Duration:
 
-Total duration to complete the tutorial (resting, drying times etc. included).
+* Total duration to complete the tutorial (resting, drying times etc. included).
 
 #### Cost:
 
-Approx. cost of the materials supposing you need to buy them all (excluding tools).
+* Approx. cost of the materials supposing you need to buy them all (excluding tools).
 
 #### License:
 
@@ -50,24 +46,26 @@ For the sake of consistency and search optimization, take the time to think abou
 
 ##### 1.1 Enter the name of the object directly. Do not precede the name with an article (a, the).
 
-Do: Wood table
-Don't: A wood table
-1.2 Do not start the name of your tutorial with the verbs "Make", "Build", "Create", etc. The verb doesn't provide useful information to the user since they already know that they are looking to "make" or "build" something.
+* Do: Wood table
+* Don't: A wood table
 
-Do: Wood table
-Don't: Make a wood table
-1.3 Specify the main material used, to clarify what your tutorial is about
+##### 1.2 Do not start the name of your tutorial with the verbs "Make", "Build", "Create", etc. The verb doesn't provide useful information to the user since they already know that they are looking to "make" or "build" something.
 
-Prefer: Table made from oak and metal
-Rather than: Table in wood
+* Do: Wood table
+* Don't: Make a wood table
+
+##### 1.3 Specify the main material used, to clarify what your tutorial is about
+
+* Prefer: Table made from oak and metal
+* Rather than: Table in wood
 
 ### 2. If your tutorial concerns a technique:
 
 ##### 2.1 Always start with an infinitive verb that describes the technique.
 
-2.2 Do not start the name of your tutorial by the verbs "Learn", "How to", etc. The verb doesn't provide useful information to the user, since they already know that they are looking to "Learn" something.
+##### 2.2 Do not start the name of your tutorial by the verbs "Learn", "How to", etc. The verb doesn't provide useful information to the user, since they already know that they are looking to "Learn" something.
 
-Prefer: Sand down a table
-Rather than: How to sand down a table
-Info-icon.jpg
+* Prefer: Sand down a table
+* Rather than: How to sand down a table
+
 If a tutorial with the name you have entered already exists, you will be sent to the form for editing that tutorial.
