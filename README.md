@@ -1,5 +1,5 @@
-# Wikifab-English-Texts
-English is your native language? Help us to improve Wikifab texts. Even 30-min of text review can make a big change!
+# Fixing Wikifab English language issues
+English is your native language? Help us to fix Wikifab English language issues. Even 30-min of text review can make a big change!
 
 # How-to suggest a change?
 * Login or register to Github
