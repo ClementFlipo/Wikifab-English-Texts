@@ -32,7 +32,7 @@ Tracking the history of tutorials allows for effective collaboration. We are cur
 
 <h4>Open source model</h4>
 
-We believe in transparency. Our combined abilities make our projects more effective and more resilient.  Anyone can freely download the Wikifab software, install it on their own server or improve it themselves. Wikifab will never claim ownership of the content our users create. [**Licensed under the Creative Commons 3.0**](https://creativecommons.org/licenses/by/3.0/legalcode)
+We believe in transparency. Our combined abilities make our projects more effective and more resilient.  Anyone can freely download the Wikifab software, install it on their own server or improve it themselves. Wikifab will never claim ownership of the content our users create. [https://creativecommons.org/licenses/by/3.0/legalcode Our Creative Commons License]
 
 
 <h4> Wikifab’s source code</h4>
