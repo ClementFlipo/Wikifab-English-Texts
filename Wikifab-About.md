@@ -20,7 +20,7 @@ This document is under development. Please share your feedback with us and help 
 
 Empower individuals to share their expertise and creativity with the world.
 
-<h4>Our platform<h4>
+<h4>Our platform</h4>
 
 Wikifab is a wiki-based site that teaches people how to make almost anything. The platform documents instructions for simple and technical projects.  You can create new tutorials for projects or make edits to current projects to enhance them. The platform is powerful, flexible and intuitive so that you can focus on building your project and exploring other exciting projects.
 
