@@ -1,6 +1,6 @@
 __NOTOC__
 <div class="alert alert-info">
-This document is under development. Please share your feedback with us and help us improve. Join to be a part of our conversation join us in our [http://feedback.wikifab.org chat room]. 
+This document is under development. Please share your feedback with us and help us improve. To be a part of our conversation join us in our [http://feedback.wikifab.org chat room]. 
 </div>
 <div class="row">
 <div class="col-md-4 col-sm-12 col-xs-12 static-pages-menu">
@@ -32,11 +32,11 @@ Tracking the history of tutorials allows for effective collaboration. We are cur
 
 <h4>Open source model</h4>
 
-We believe in transparency. Our combined abilities make our projects more effective and more resilient.  Anyone can freely download the Wikifab software, install it on their own server or improve it themselves. Wikifab will never claim ownership of the content our users create. [https://creativecommons.org/licenses/by/3.0/legalcode Our Creative Commons License]
+We believe in transparency. Our combined abilities make our projects more effective and more resilient.  Anyone can freely download the Wikifab software, install it on their own server or improve it themselves. Wikifab will never claim ownership of the content our users create.
 
 
 <h4> Wikifab’s source code</h4>
 
-Wikifab source code isn’t freely downloadable on Github yet. We need to enhance it further and optimize the platform to facilitate collaboration. However, if you want to help improve it today, just send us an email at team@wikifab.org and we'll send it over.
+Wikifab source code is released under the MIT license and is freely downloadable on Github. The documentation to install your own Wikifab instance can be found here.
 </div>
 </div>
